@@ -1,6 +1,6 @@
 # Wikipedia
 ---
-```
+```#bash
 $pkg install python
 $pkg install python2
 $pkg install git
@@ -9,8 +9,6 @@ $cd Wikipedia
 $chmod +X *
 $python3 1.py
 ```
-================================================================================
-
 ---
 
 # Wikipedia Summary Program
