@@ -1,7 +1,7 @@
 import wikipedia
 
 def main():
-    print("Welcome to the Wikipedia Summary Program!")
+    print("Welcome to the Wikipedia Program!")
     while True:
         topic = input("Enter a topic to get a summary (or 'q' to quit): ")
         if topic.lower() == 'q':
